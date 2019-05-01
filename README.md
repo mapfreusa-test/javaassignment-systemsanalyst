@@ -22,6 +22,7 @@
  > * Good Integration Tests.
  > * Proper Comments.
  > * Proper Exception/Error Handling Scenarios.
+ > * Relavant Http Status codes related to each operation.
  
  #### Tips
  
